@@ -1,7 +1,7 @@
 # Platepal
 Personalize your grocery run using Machine Learning.
 
-A Reinforcement Learning based recommendation system that takes in your pin code, fetches the latest deals from grocery stores nearby and curates a grocery list across four categories - carbs, proteins, dairy and fresh-produce all within the budget specified by you. The model learns from itself by using a Q-Learning agent with an Epsilon greedy approach.
+A Reinforcement Learning based recommendation system that takes in your pin code, fetches the latest deals from grocery stores nearby and curates a grocery list across four categories - carbs, proteins, dairy and fresh-produce all within the budget specified by the user. The model learns from itself by using a Q-Learning agent with an Epsilon greedy approach.
 
 #Demo video:
 
